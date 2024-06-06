@@ -27,7 +27,7 @@ O projeto é dividido em várias funções para coletar, exibir, adicionar, remo
 
    ```bash
     git clone https://github.com/pedroamcerto/blueguard_python.git
-    cd blue-guard
+    cd blueguard_python
    ```
 
 2. **Execute o script principal:**
